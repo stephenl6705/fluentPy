@@ -33,6 +33,9 @@ class Vector2d:
     def __eq__(self, other):
         return tuple(self) == tuple(other)
     
+    def __len__(self):
+        return 2
+
     def __hash__(self):
         return hash(self.x) ^ hash(self.y)
     
