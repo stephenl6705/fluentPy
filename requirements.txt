@@ -1,3 +1,4 @@
+aiohttp==0.22.5
 appnope==0.1.0
 bobo==2.3.0
 chardet==2.3.0
@@ -15,6 +16,7 @@ jupyter-console==5.0.0
 jupyter-core==4.1.0
 MarkupSafe==0.23
 mistune==0.7.2
+multidict==1.2.2
 nbconvert==4.2.0
 nbformat==4.0.1
 notebook==4.2.1
